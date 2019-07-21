@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+echo "bootstrap"
+
+exit 0
